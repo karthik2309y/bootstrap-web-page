@@ -1,0 +1,228 @@
+.content{
+    padding-top: 500px;
+}
+.content h1{
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+.content p{
+    padding-top: 15px;
+    color: white;
+    font-size: 22px;
+    text-align: right;
+}
+.content a {
+    text-decoration: none;
+    color: white;
+
+}
+.content1{
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.content1 h1{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.content1 a {
+    text-decoration: none;
+    color: white;
+    margin-right: 100px;
+    line-height: 1.5cm;
+}
+
+
+.content1 h1 {
+   line-height: 1.5cm;
+   font-weight: 900;
+   font-size: 1cm;
+   text-align: left ;
+}
+.content1 h3{
+line-height: 1.5cm;
+text-align: left;
+}
+.content1 p{
+    text-align: left;
+    justify-content: right;
+    font-size: larger;
+    font-style: italic;
+    line-height: 25px;
+}
+.one{
+    background-color: #4F565F;
+}
+.two{
+    background-color: #4F565F;
+}
+ .three{
+    background-color: #4F565F;
+
+} 
+.four{
+ background-color: #4F565F;
+    
+}
+.content2{
+    padding-bottom: 120px;
+}
+.content2 h1{
+    font-weight: 600;
+    font-size: 50px;
+    color: black;
+padding-top: 250px;
+}
+.topic {
+    line-height: 30px;
+    padding-top: 25px;
+}
+.content2 button{
+    color: #ffff;
+    background-color: #038CB6;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    margin-top: 60px;
+}
+button:hover{
+    background-color: black;
+    color: #ffff;
+}
+.content3{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.content3 h1{
+    color: #ffff;
+    font-size: 40px;
+}
+.content3 h4{
+    color: #ffff;
+}
+/* .head {
+    color: #ffff;
+    padding-top: 40px;
+} */
+
+.content3 a{
+    color: #ffff;
+    /* padding-top: 50px; */
+}
+.content3 button{
+    color: #ffff;
+    background-color: #038CB6;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.content3 img{
+    /* margin-left: 80px; */
+    border-radius: 500px;
+}
+.content3{
+    padding: 70px;
+}
+button:hover{
+    background-color: black;
+    color: #ffff;
+}
+.line{
+     padding-top: 20px;
+    letter-spacing: 1px;
+}
+
+.content44 h1{
+padding-top: 100px;
+font-weight: 600;
+font-size: 30px;
+color: black;
+}
+.content44 h5{
+    
+    font-size: 18px;
+}
+.content44 p{
+    padding-top: 15px;
+    font-size: 18px;
+}
+.content44 a{
+    color: black;
+}
+.content44 button{
+    color: #ffff;
+    background-color: #038CB6;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    margin-top: 40px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+    
+    .content5{
+        color: #ffff;
+    }
+    .content5 a{
+        color: #ffff;
+    }
+    .content5 button{ 
+        color: #ffff;
+        background-color: #038CB6;
+        padding: 15px;
+        padding-left: 50px;
+        padding-right: 50px;
+        border: none;
+        margin-top: 40px;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .content5 h1{
+        padding-top: 80px;
+        font-weight: 600;
+        font-size: 30px;
+}
+.content5 h4{
+    padding-top: 30px;
+}
+.sym{
+    padding-top: 10px;
+}
+.content6{
+    padding-bottom: 50px;
+    color: black;
+}
+.content6 h1{
+font-weight: 700;
+font-size: 40px;
+padding-top: 130px;
+
+}
+.content6 h4{
+    padding-top: 20px;
+   font-size: 20px;
+}
+.content6 button{
+    color: #ffff;
+    background-color: #038CB6;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    border: none;
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 80px;
+}
+.content6 a{  
+   color: black;
+    }
